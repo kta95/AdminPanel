@@ -1,2 +1,2 @@
 # AdminPanel
-SpringBoot
+JSP, Servlet and JDBC
